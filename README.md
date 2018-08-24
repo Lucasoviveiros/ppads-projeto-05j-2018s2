@@ -4,7 +4,9 @@
 ### Integrantes do grupo:
 
 Matheus Alves Cassemiro
+
 Lucas Oliveira Vivendos
+
 Rafael Acayba
-Vinicius
-* Aluno 5
+
+Vinicius Fabiano Carvalho
