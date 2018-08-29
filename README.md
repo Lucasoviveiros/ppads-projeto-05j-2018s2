@@ -7,6 +7,6 @@ Matheus Alves Cassemiro
 
 Lucas Oliveira Vivendos
 
-Rafael Acayba
+Rafael Acayaba
 
 Vinicius Fabiano Carvalho
