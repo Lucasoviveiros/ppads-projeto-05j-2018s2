@@ -1,0 +1,20 @@
+Introdução
+ Plano de teste feito para guiar os tester à ferramenta criada. Abaixo se as partes mais importantes a ser testadas:
+
+ Itens a serem testado:
+ 
+- Testar realizar doação.
+- Testar campos do formulário.
+- Testar confirmar solicitação.
+- Verificar o cadastro de doação, vendo quais tipos de item necessita ser doado.
+- Com isso testar novamente o formulário.
+- Verificar o pedido feito.
+- Consultar endereço após o pedido feito.
+- Verificar se o sistema pede os dados do receptor para retirada da doação.
+- Verificar opção de encaminhar doação
+
+Os testes deverão ser feitos por uma equipe capacitada para ter um retorno ao qual necessita a alteração e a solução de bugs. 
+
+Não terão riscos nesse ambiente pois trata-se de uma plataforma de teste então poderá ser feito teste sem riscos de perda ou impacto no ambiente.
+
+Após os testes feitos a equipe avaliará como está o projeto e passará as informações a serem alteradas e melhoradas, assim como bugs e melhorias.
